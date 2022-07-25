@@ -503,7 +503,6 @@ test "inferred function parameter" {
 
 > Payload capture is used to "capture" the value from something.
 
-
 ```zig
 var maybe_x: ?usize = ...;
 if (maybe_x) |n| {
